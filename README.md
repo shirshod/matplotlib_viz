@@ -1,4 +1,4 @@
-# Matplotlib 
+# [Matplotlib: An Introduction](https://github.com/shirshod/matplotlib_viz)
 
 The topics and code covered in this notebook are sourced from W3 Schools (with little tweaks here and there) and from my own research.
 The comments and explanations are either my own or from the website. Refer to the website for more examples and details. Read more [here](https://www.w3schools.com/python/matplotlib_intro.asp).
